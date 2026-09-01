@@ -4,7 +4,7 @@
 
 </div>
 
-<img align="right" width="230" src="assets/moi-assis.png"/>
+<img align="right" width="250" src="assets/moi-assis.png"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=A78BFA&vCenter=true&width=520&lines=Developpeur%20Full-Stack%20%26%20Designer%20Graphique;Formation%20continue%20%3A%20ASRC%20-%3E%20Master%20Cybersecurite%20%26%20Cloud%20%28oct%202026%29;En%20recherche%20d%27un%20stage%20IT%20%28sept%202026%29" alt="Typing SVG"/>
 
@@ -16,22 +16,25 @@
 
 <br clear="right"/>
 
-## 👋 À propos
+---
+### 👋 À propos
+<img align="right" width="250" src="assets/moi-statut.png"/>
 
 - 🌱 En apprentissage : Cybersécurité, Cloud, DevSecOps
 - 🗺️ Feuille de route : CCNA · CompTIA Security+ · AWS Cloud Practitioner
 - 💬 Français natif · Anglais courant (scolarité complète en anglais)
 - 📍 Nemours, France
 
-<img align="left" width="150" src="assets/moi-statut.png"/>
-
 ### 🔎 Ouvert aux opportunités
 
 Actuellement en recherche d'un **stage de 2 mois en support IT / administration systèmes**, disponible dès le **21 septembre 2026** (Île-de-France). Ouvert aussi à toute mission en cybersécurité, cloud ou développement qui me permet d'apprendre sur le terrain.
 
+
+
 <br clear="left"/>
 
-## 🎓 Certifications
+---
+### 🎓 Certifications
 
 <p align="center">
 <a href="https://coursera.org/verify/GS8ZUMG7LKCQ"><img src="assets/certs/cert-google-technical-support.png" width="150"/></a>
@@ -41,7 +44,8 @@ Actuellement en recherche d'un **stage de 2 mois en support IT / administration 
 <img src="assets/certs/cert-maintenance.png" width="150"/>
 </p>
 
-## 🛠️ Compétences
+---
+### 🛠️ Compétences
 
 **Développement**
 
@@ -65,14 +69,15 @@ Actuellement en recherche d'un **stage de 2 mois en support IT / administration 
 ![Photoshop](https://img.shields.io/badge/Photoshop-Identit%C3%A9%20visuelle-31A8FF?style=flat&logo=adobephotoshop&logoColor=white&labelColor=0D1117)
 ![Canva](https://img.shields.io/badge/Canva-Supports%20graphiques-00C4CC?style=flat&logo=canva&logoColor=white&labelColor=0D1117)
 
-## 📌 Projets phares
+---
+### 📌 Projets phares
 
 - 🛡️ **[devsecops-pipeline-fr](https://github.com/Franck2040/devsecops-pipeline-fr)** — Template CI/CD DevSecOps souverain NIS2/ANSSI : pipeline GitHub Actions 7 couches (Gitleaks, Semgrep, Trivy, npm audit, Checkov, Syft, OWASP ZAP), modèle de menace STRIDE
 - 🛒 **[techfind](https://github.com/Franck2040/techfind)** — Boutique e-commerce (Next.js, TypeScript, Prisma, PostgreSQL) — [démo en ligne](https://techfind-orpin.vercel.app)
 - ⚙️ **[n8n-veille-emploi-fr](https://github.com/Franck2040/n8n-veille-emploi-fr)** — Workflow n8n : Gmail → extraction IA (Gemini) → déduplication → Notion → notification
 - 🩺 **[health-tracker](https://github.com/Franck2040/health-tracker)** — Suivi santé (Java, Spring Boot, Spring Data JPA, Thymeleaf)
 
-## 📊 Statistiques GitHub
+### 📊 Statistiques GitHub
 
 <div align="center">
 
