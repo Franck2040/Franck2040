@@ -38,8 +38,8 @@ Actuellement en recherche d'un **stage de 2 mois en support IT / administration 
 
 <p align="center">
 <a href="https://coursera.org/verify/GS8ZUMG7LKCQ"><img src="assets/certs/cert-google-technical-support.png" width="150"/></a>
-<a href="https://coursera.org/verify/2O6PQF1NR9LX"><img src="assets/certs/cert-google-networking.png" width="150"/></a>
-<img src="assets/certs/cert-cisco-hardware.png" width="150"/>
+<a href="https://coursera.org/verify/2O6PQF1NR9LX"><img src="assets/certs/cert-google-networking.png" width="150"/></a>  
+<a href="https://kenmeugnecalixte.com/assets/certifs/Computer_Hardware_Basics_certificate.pdf"><img src="assets/certs/cert-cisco-hardware.png" width="150"/></a>
 <img src="assets/certs/cert-dev-web.png" width="150"/>
 <img src="assets/certs/cert-maintenance.png" width="150"/>
 </p>
