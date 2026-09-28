@@ -72,7 +72,6 @@ Actuellement en recherche d'une **alternance** ou d'un **stage de 1-3 mois en su
 ---
 ### 📌 Projets phares
 
-- 🛡️ **[devsecops-pipeline-fr](https://github.com/Franck2040/devsecops-pipeline-fr)** — Template CI/CD DevSecOps souverain NIS2/ANSSI : pipeline GitHub Actions 7 couches (Gitleaks, Semgrep, Trivy, npm audit, Checkov, Syft, OWASP ZAP), modèle de menace STRIDE
 - 🛒 **[techfind](https://github.com/Franck2040/techfind)** — Boutique e-commerce (Next.js, TypeScript, Prisma, PostgreSQL) — [démo en ligne](https://techfind-orpin.vercel.app)
 - ⚙️ **[n8n-veille-emploi-fr](https://github.com/Franck2040/n8n-veille-emploi-fr)** — Workflow n8n : Gmail → extraction IA (Gemini) → déduplication → Notion → notification
 - 🩺 **[health-tracker](https://github.com/Franck2040/health-tracker)** — Suivi santé (Java, Spring Boot, Spring Data JPA, Thymeleaf)
