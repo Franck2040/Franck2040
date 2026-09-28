@@ -27,7 +27,7 @@
 
 ### 🔎 Ouvert aux opportunités
 
-Actuellement en recherche d'un **stage de 2 mois en support IT / administration systèmes**, disponible dès le **21 septembre 2026** (Île-de-France). Ouvert aussi à toute mission en cybersécurité, cloud ou développement qui me permet d'apprendre sur le terrain.
+Actuellement en recherche d'une **alternance** ou d'un **stage de 1-3 mois en support IT / administration systèmes/ cloud**, disponible dès le **21 septembre 2026** (Île-de-France). Ouvert aussi à toute mission en cybersécurité, cloud ou développement qui me permet d'apprendre sur le terrain.
 
 
 
